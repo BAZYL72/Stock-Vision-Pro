@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ---- Virtual environments ----
+venv/
+env/
+.venv/
+.virtualenv/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints/
+*.ipynb
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- IDEs ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Logs ----
+*.log
+
+# ---- Secrets ----
+.env
+.env.local
+.env.production
+
+# ---- Node (if any) ----
+node_modules/
+
+# ---- Do NOT ignore models or scalers ----
+!models/
+!scalers/
+
+# Anaconda / Spyder junk
+anaconda_projects/
+project_filebrowser.db
