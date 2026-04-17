@@ -18,9 +18,8 @@
 ---
 
 ##  Project Structure
-'''
+'''text
 StockVision_Pro/
-│
 ├── app.py                 # Main Flask backend
 ├── api/                   # Vercel serverless entry
 │   └── index.py
@@ -34,7 +33,7 @@ StockVision_Pro/
 '''
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
