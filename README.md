@@ -18,6 +18,7 @@
 ---
 
 ##  Project Structure
+```
 StockVision_Pro/
 │
 ├── app.py                 # Main Flask backend
@@ -30,7 +31,7 @@ StockVision_Pro/
 ├── requirements.txt
 ├── vercel.json
 └── .gitignore
-
+```
 ---
 
 ##  Tech Stack
